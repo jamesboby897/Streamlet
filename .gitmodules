@@ -10,3 +10,6 @@
 [submodule "libs/gl3w"]
 	path = libs/gl3w
 	url = https://github.com/skaslev/gl3w.git
+[submodule "libs/miniaudio"]
+	path = libs/miniaudio
+	url = https://github.com/mackron/miniaudio.git
