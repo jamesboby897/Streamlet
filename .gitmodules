@@ -4,3 +4,6 @@
 [submodule "libs/qoi"]
 	path = libs/qoi
 	url = https://github.com/phoboslab/qoi.git
+[submodule "libs/glfw"]
+	path = libs/glfw
+	url = https://github.com/glfw/glfw.git
