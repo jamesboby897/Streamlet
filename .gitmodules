@@ -1,3 +1,6 @@
 [submodule "libs/opus"]
 	path = libs/opus
 	url = https://github.com/xiph/opus.git
+[submodule "libs/qoi"]
+	path = libs/qoi
+	url = https://github.com/phoboslab/qoi.git
